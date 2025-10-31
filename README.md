@@ -13,6 +13,7 @@ Cụ thể, ứng dụng gồm nhiều màn hình chức năng:
 
 Bài code này không chỉ giúp thực hành Compose Navigation và Lazy layout, mà còn giúp người học rèn luyện khả năng thiết kế UI/UX bằng Compose mà không cần dùng XML.
 Tổng thể, ứng dụng “Thế Giới Mèo” vừa mang tính học thuật (thực hành kỹ thuật Compose), vừa mang yếu tố thẩm mỹ và sáng tạo.
-<img width="727" height="1613" alt="image" src="https://github.com/user-attachments/assets/f756ed17-4ecc-4cab-b2f6-35c60b72241b" />
-<img width="722" height="1617" alt="image" src="https://github.com/user-attachments/assets/c202b509-dff8-455d-9c7c-04b6b16f9c4f" />
+
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/f756ed17-4ecc-4cab-b2f6-35c60b72241b" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/c202b509-dff8-455d-9c7c-04b6b16f9c4f" />
 
